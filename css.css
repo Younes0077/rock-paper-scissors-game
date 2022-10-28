@@ -1,0 +1,47 @@
+#d1{
+    height:750px;
+    width:1000px;
+    /*position:;
+    top:auto;
+    right:;*/
+    margin:5px auto 0px;
+    border:5px solid rgb(0, 88, 110);
+    background-color:rgba(176, 207, 228, 0.267);
+
+}
+#head{
+    width:1000px;
+    height:400px;
+    margin:200px auto 0px;
+    border:5px solid rgb(0,88,110);
+    background-color:azure;
+}
+
+.peaper{
+    width:200px;
+    height:200px;
+    margin-left: 110px; 
+    margin-top: 100px;
+}
+.hidden{
+    display:none;
+}
+p{
+    font-size: 24pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#s1{
+    font-size: 24pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#s2{
+    font-size: 24pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#s3
+{
+    font-size: 24pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
